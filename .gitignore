@@ -1,0 +1,10 @@
+# 运行产物（含目标资产数据与操作留痕，绝不提交）
+audit.log
+assets_*.csv
+assets_*.md
+config.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
