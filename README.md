@@ -65,4 +65,4 @@ python asset_workflow.py --domain example.com --level general --authorized
 
 ## License
 
-[MIT](LICENSE) © 2026 陈佳鑫 (SinghYY)
+[MIT](LICENSE) © 2026 (SinghYY)
